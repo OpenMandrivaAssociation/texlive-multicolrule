@@ -1,6 +1,6 @@
 Name:		texlive-multicolrule
 Version:	56366
-Release:	1
+Release:	2
 Summary:	Decorative rules between columns
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multicolrule
