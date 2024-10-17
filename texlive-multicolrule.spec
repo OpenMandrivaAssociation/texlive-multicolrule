@@ -3,7 +3,7 @@ Version:	56366
 Release:	2
 Summary:	Decorative rules between columns
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multicolrule
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/multicolrule
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multicolrule.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multicolrule.doc.r%{version}.tar.xz
